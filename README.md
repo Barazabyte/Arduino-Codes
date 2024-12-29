@@ -42,8 +42,8 @@ Here's what you can find in this repository:
    git clone https://github.com/Barazabyte/Arduino-Codes.git
 
 
-# Youtube:: @Barazabytes
-# Instagram:: @iamofficialbaraza
+# Youtube:: https://www.youtube.com/@BarazaBytes
+# Instagram:: https://instagram.com/iamofficialbaraza
 
 
 
